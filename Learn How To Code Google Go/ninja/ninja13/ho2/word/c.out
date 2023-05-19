@@ -1,0 +1,5 @@
+mode: set
+github.com/yash15122001/gotesting2/word/main.go:7.40,10.23 3 1
+github.com/yash15122001/gotesting2/word/main.go:13.2,13.10 1 1
+github.com/yash15122001/gotesting2/word/main.go:10.23,12.3 1 1
+github.com/yash15122001/gotesting2/word/main.go:16.26,20.2 2 1
